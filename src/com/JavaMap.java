@@ -2,8 +2,6 @@ package com;
 
 import java.util.Map;
 
-import org.omg.CORBA.PUBLIC_MEMBER;
-
 public class JavaMap {
 	Map<String, String>myMap;
 	
